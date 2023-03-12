@@ -1,6 +1,6 @@
 # Calculadora
 
-<p>Projeto para treinar as habilidades em HTML, CSS e JavaScript, que foi desenvolvido durante o curso de formação da <a href="https://imalearningplace.com/" target="_blank">ImãLearningPlace</a> para Desenvolvedor Web FullStack Jr</p>
+<p>Projeto para treinar as habilidades em HTML, CSS e JavaScript</p>
 
 <img src="./gif/gifCalculator.gif">
 
